@@ -8,7 +8,7 @@ Trivia game with 4 subjects to choose from, each with 20 questions. The correct 
 | :-------------: |:-------------:|
 | <img width= "450" height= "400" src= "https://user-images.githubusercontent.com/106715980/173976968-c27dfd46-e70e-4a30-b06b-e1d220f5c76e.png"> |<img width= "450" height= "400" src="https://user-images.githubusercontent.com/106715980/174203596-e4df1f39-e6f5-468f-a52a-4821ce8af2fb.png">|
 | col 2 is      | centered      | 
-| <img width= "450" height= "400" src= "https://user-images.githubusercontent.com/106715980/174204128-ef88b7d2-3d3e-49a1-b22d-305cc46629f6.png"> | <img width= "450" height= "400" src="https://user-images.githubusercontent.com/106715980/174204599-22705f71-28fe-4123-b86c-9f3e4921e424.png">      | 
+| <img width= "450" height= "400" src= "https://user-images.githubusercontent.com/106715980/174204128-ef88b7d2-3d3e-49a1-b22d-305cc46629f6.png"> | <img width= "450" height= "400" src= "https://user-images.githubusercontent.com/106715980/174210198-1d73e071-a356-4fb5-b245-ac343a4b287f.png">      | 
 | title | title   |
-| <img width= "450" height= "400" src= "https://user-images.githubusercontent.com/106715980/174207612-754344ea-8068-41d3-8e7d-9cccea4531cb.gif">| title|
+| <img width= "450" height= "400" src= "https://user-images.githubusercontent.com/106715980/174211823-8348f648-69b6-4bdb-aa4b-ffcfed139062.gif">| <img width= "450" height= "400" src= "https://user-images.githubusercontent.com/106715980/174211069-26bc8c66-c006-4f23-aa12-99a39101bd52.png" >|
 
