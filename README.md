@@ -1,7 +1,7 @@
 # Trivia-Game-in-Java
 
 
-Text/graphics based trivia game with 4 subjects to choose from, each with 20 questions. The correct answer is displayed and score is tallied. There is a computer to play against whos difficulty is determined by its chance of answering a question correctly. There are records of all previous player's and scores for each subject and you are given a rank on the all-time leaderboard. This project was for our grade 12 computer science class final and the goal was to create a user-interactive game that utilized class concepts such as OOP, sorting, methods, arrays, read text files, read/write binary files. This project was completed with my class partner Rebecca Difilippo.
+Text/graphics based trivia game with 4 subjects to choose from, each with 20 questions. The correct answer is displayed and score is tallied. There is a computer to play against whos difficulty is determined by its chance of answering a question correctly. There are records of all previous player's and scores for each subject and you are given a rank on the all-time leaderboard. This project was for our grade 12 computer science class final and the goal was to create a user-interactive game that utilized class concepts such as OOP, sorting, methods, arrays, read text files, read/write binary files. 
 
 
 |`Welcome Message` |`Title screen`  |
