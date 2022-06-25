@@ -1,5 +1,5 @@
 # Trivia-Game-in-Java
-Trivia game with 4 subjects to choose from, each with 20 questions. The correct answer is displaued and score is tallied. There is a computer to play against whos difficulty is determined by its chance of answering a question correctly. There are records of all previous player's and scores for each subject and you are given a rank on the all-time leaderboard. This project was for our grade 12 computer science class final and the goal was to create a user-interactive game that utilized class concepts such as OOP, sorting, methods, srrays, read text files, read/write binrary files. This project was completed with my partner Rebecca Difilippo
+Trivia game with 4 subjects to choose from, each with 20 questions. The correct answer is displaued and score is tallied. There is a computer to play against whos difficulty is determined by its chance of answering a question correctly. There are records of all previous player's and scores for each subject and y.
 
 
 
@@ -13,6 +13,6 @@ Trivia game with 4 subjects to choose from, each with 20 questions. The correct 
 | <img width= "450" height= "400" src= "https://user-images.githubusercontent.com/106715980/174211823-8348f648-69b6-4bdb-aa4b-ffcfed139062.gif">| <img width= "450" height= "400" src= "https://user-images.githubusercontent.com/106715980/174211069-26bc8c66-c006-4f23-aa12-99a39101bd52.png" >|
 | `Results` shows if the user got the question correct, if the computer did, each of their current scores, and the correct answer to the question which is read from the text file. Final score and name of the player is written to a binary file  | `Leaderboard` displays a maximum of the top 10 scoring players who have played the game and their score which is read from a binary file |
 |<img width= "450" height= "400" src= "https://user-images.githubusercontent.com/106715980/174921794-fac16201-7310-4838-b20f-316b2d7df97a.png">|<img width= "450" height= "400" src= "https://user-images.githubusercontent.com/106715980/174921834-0184ee04-1051-4964-978c-726aedd51b54.png">|
-|`Compare Computer` shows how the user perfomed against the computer | `Compare other players` gives the users placement to the all-time database of players.|
+|`Compare Computer` shows how the user perfomed against the computer | `Compare other players` gives the users placement to the all-time database of players|
 |<img width= "450" height= "400" src="https://user-images.githubusercontent.com/106715980/174921876-dc4942b1-1b47-4692-b9a1-9e2c38b22604.png">|<img width= "450" height= "400" src="https://user-images.githubusercontent.com/106715980/174921974-7296ad20-584c-486f-873f-769f77603a56.png">|
 
